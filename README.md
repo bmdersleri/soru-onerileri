@@ -1,5 +1,8 @@
 ![[Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master](https://github.com/bmdersleri/soru-onerileri/blob/main/qrcode.png){ width="400" height="400" style="display: block; margin: 0 auto" }
 
+
+![Picture]([Picture.svg](https://github.com/bmdersleri/soru-onerileri/blob/main/qrcode.png)){ width="800" height="600" style="display: block; margin: 0 auto" }
+
 # Soru Önerileri İçin JSON Şablonu
 
 Sınav sorusu için soru önerileri aşağıdaki JSON şablona göre hazırlanacaktır.
