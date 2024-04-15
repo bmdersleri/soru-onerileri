@@ -3,7 +3,7 @@ Sınav sorusu için soru önerileri bu şablona göre hazırlanacaktır.
 
 Sorular aşağıda verilmiş olan JSON formatına uygun olmalıdır. 
 
-| Anahtar Kelime | Açıklama |
+| Anahtar Kelime | :Açıklama |
 | ------ | ------ |
 | question | Soru cümlesi bu bölüme yazılmalıdır. |
 | difficulty | Sozunun zorluk derecesi buraya yazılmalıdır (1: Kolay, 2: Orta, 3:Zor) |
