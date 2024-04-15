@@ -1,9 +1,8 @@
 # Soru Önerileri İçin JSON Şablonu
-Sınav sorusu için soru önerileri bu şablona göre hazırlanacaktır.
 
+Sınav sorusu için soru önerileri aşağıdaki JSON şablona göre hazırlanacaktır.
 
 Sorular aşağıda verilmiş olan JSON formatına uygun olmalıdır. 
-
 
 |Anahtar Kelime |Açıklama |
 | ------ | ------ |
