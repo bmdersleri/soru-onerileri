@@ -42,3 +42,4 @@ Sorular aşağıda verilmiş olan JSON formatına uygun olmalıdır.
 }
 ```
 
+[![Build Status]([https://travis-ci.org/joemccann/dillinger.svg?branch=master](https://github.com/bmdersleri/soru-onerileri/blob/main/qrcode.png))]
