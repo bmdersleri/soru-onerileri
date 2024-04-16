@@ -45,7 +45,7 @@ Sorular aşağıda verilmiş olan JSON formatına uygun olmalıdır.
 ```
 
 
-[**Online JSON Editörü**](https://jsoneditoronline.org/#left=cloud.85a31d7fdaa84e71a7c70bac69973f8c&right=local.gihexo)
+[**Online JSON Editörü 1**](https://jsoneditoronline.org/#left=cloud.85a31d7fdaa84e71a7c70bac69973f8c&right=local.gihexo)
 
-
+[**Online JSON Editörü 2**](https://codebeautify.org/online-json-editor/y24f02198)
 
