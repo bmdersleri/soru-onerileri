@@ -44,7 +44,7 @@ Sorular aşağıda verilmiş olan JSON formatına uygun olmalıdır.
 }
 ```
 
-## Online JSON Editörü
+
 [**Online JSON Editörü**](https://jsoneditoronline.org/#left=cloud.85a31d7fdaa84e71a7c70bac69973f8c&right=local.gihexo)
 
 
